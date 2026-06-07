@@ -70,7 +70,7 @@ data/
 
 ## 👩‍💻 Autora
 
-Danielle Magalhães Ballester
+Danielle Magalhães Ballester   
 Residência Tecnológica do SiDi — Turma de IA Aplicada
 
 ---
